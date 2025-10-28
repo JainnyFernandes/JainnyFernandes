@@ -43,12 +43,12 @@ Atualmente, atuo com **suporte técnico e infraestrutura**, enquanto me aprofund
 
 ### 📚 Formação Acadêmica
 
-🎓 **Técnico em Informática** — Conclusão em andamento  
-🎓 **Bacharelado em Ciência da Computação** — Em curso  
+🎓 **Técnico em Informática** — Conclusão em 2021 
+🎓 **Bacharelado em Ciência da Computação** — Em andamento 
 📘 Cursos complementares em:
-- Redes e Infraestrutura (Cisco / Mikrotik)
+- Redes e Infraestrutura 
 - Desenvolvimento Web e Lógica de Programação
-- Banco de Dados e Modelagem
+- Banco de Dados 
 
 ---
 
